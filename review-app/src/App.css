@@ -1,0 +1,19 @@
+* {
+    text-align:center;
+}
+
+.card {
+    width:min-content;
+    
+}
+
+.btn-danger {
+    margin-bottom: 11px;
+}
+
+.reviewBox {
+    border:dotted;
+    border-radius:11px;
+    margin:5px;
+}
+
